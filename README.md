@@ -1,1 +1,0 @@
-# Int.-Artificial-y-Redes-Neuronales
